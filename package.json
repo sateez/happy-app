@@ -1,0 +1,23 @@
+{
+  "name": "happy-app",
+  "version": "1.0.0",
+  "description": "spread the joy",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sateez/happy-app.git"
+  },
+  "keywords": [
+    "node",
+    "git"
+  ],
+  "author": "sateez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sateez/happy-app/issues"
+  },
+  "homepage": "https://github.com/sateez/happy-app#readme"
+}
